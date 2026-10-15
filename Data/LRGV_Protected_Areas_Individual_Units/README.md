@@ -1,1 +1,1 @@
-
+Contains individual protected-area tracts and units organized into subfolders by refuge, management area, state park, or other protected-area type. Each spatial file represents an individual tract or unit, allowing users to select specific areas for their analyses.
