@@ -1,1 +1,10 @@
-
+cff-version: 1.0.0
+message "If you use this work, please cite it using the following information."
+type: software
+authors: 
+- family-names: "Burkett-Warfel" 
+  given-names: "Carmen A."
+version: 1.0.0
+date-released: 2026-11-10
+doi: "https://doi.org/10.5281/zenodo.23965682"
+url: "https://github.com/carmenburkett-warfel/LowerRioGrandeValley"
