@@ -1,10 +1,11 @@
-cff-version: 1.0.0
-message "If you use this work, please cite it using the following information."
-type: software
-authors: 
-- family-names: "Burkett-Warfel" 
-  given-names: "Carmen A."
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Burkett-Warfel"
+  given-names: "Carmen A"
+  orcid: "https://orcid.org/0009-0009-3992-356X"
+title: "Protected Areas of the Lower Rio Grande Valley, Texas"
 version: 1.0.0
+doi: 10.5281/zenodo.23965682
 date-released: 2026-11-10
-doi: "https://doi.org/10.5281/zenodo.23965682"
-url: "https://github.com/carmenburkett-warfel/LowerRioGrandeValley"
+url: "https://github.com/carmenburkett-warfel/LowerRioGrandeValle"
