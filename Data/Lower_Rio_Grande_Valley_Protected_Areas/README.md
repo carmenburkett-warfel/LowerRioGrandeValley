@@ -1,1 +1,0 @@
-Contains a single regional spatial layer of protected areas across the Lower Rio Grande Valley. Individual tracts and units remain separate features within the same layer. This format allows users to work with the entire region while retaining individual tract boundaries and associated attributes.
